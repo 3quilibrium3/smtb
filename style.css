@@ -6,4 +6,8 @@ body {
 }
 a {
  color: white;
+  text-decoration: none;
+}
+a:hover {
+  color: #c0c0c0;
 }
