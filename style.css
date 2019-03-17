@@ -11,3 +11,12 @@ a {
 a:hover {
   color: #c0c0c0;
 }
+.poemlist {
+  list-style-type: lower-roman;
+  margin: 0;
+  padding: 0;
+}
+.poemlist li {
+  margin: 0;
+  padding: 0;
+}
